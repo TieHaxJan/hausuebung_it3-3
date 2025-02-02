@@ -27,7 +27,7 @@ In dieser Übung erweitern Sie eine bestehende React Native App, die mit Expo er
 #### **Option 2: Git-Repository (optional)**
 - Falls Sie Git installiert haben, können Sie das Projekt direkt aus dem Repository klonen:
   ```bash
-  git clone <repository-url>
+  git clone git@github.com:TieHaxJan/hausuebung_it3-3.git
   ```
 
 - Projektordner in Visual Studio Code öffnen.
