@@ -56,7 +56,7 @@ In dieser Übung erweitern Sie eine bestehende React Native App, die mit Expo er
   - Aktivieren Sie den **Responsive Design Mode** (meistens ein Symbol eines Telefons/Tablets oben rechts).
   - Wählen Sie aus den verfügbaren Geräteprofilen aus, um die App in verschiedenen Bildschirmgrößen zu testen.
 
-## **4. Aufgabe**
+## **4. Aufgaben**
 
 ### **Beschreibung**
 - Öffnen Sie die Datei `src/components/TodoFeature.tsx`.
@@ -76,18 +76,11 @@ In dieser Übung erweitern Sie eine bestehende React Native App, die mit Expo er
 
 ### **Aufgabe 3: Zustand für die Datenverwaltung verwenden**
 - Ersetzen Sie die Verwendung von Reacts `useState`-Hook durch **Zustand** zur Verwaltung des Zustands:
-  - Erstellen Sie einen Zustand-Store, um die Aufgaben und deren Auswahlstatus zu speichern.
   - Stellen Sie sicher, dass das Hinzufügen, Umschalten und Löschen von Aufgaben mit dem Zustand-Store korrekt funktioniert.
 
 ### **Ressourcen**
 - Zustand-Dokumentation: [https://docs.pmnd.rs/zustand](https://docs.pmnd.rs/zustand)
 - React Native CheckBox: [https://reactnative.dev/docs/checkbox](https://reactnative.dev/docs/checkbox)
-
-## **5. Einreichung**
-- Packen Sie Ihren Projektordner als ZIP-Datei:
-  - Stellen Sie sicher, dass der Ordner **node_modules** nicht enthalten ist.
-  - Nutzen Sie einen Namen wie `Projektname_IhrName.zip`.
-- Laden Sie die ZIP-Datei auf die Lernplattform hoch.
 
 ## **6. Hilfsmittel und Ressourcen**
 - [React Native Dokumentation](https://reactnative.dev/docs/getting-started)
